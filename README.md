@@ -18,10 +18,9 @@
 - ListView
 
 ## Android构建 ##
-- Android编译打包
-- Git
-- Proguard混淆
-- [Gradle](https://segmentfault.com/a/1190000004229002)
+- Android编译打包/变体构建
+- Proguard混淆/代码加固
+- Ant、[Gradle](https://segmentfault.com/a/1190000004229002)
 - Lint检测
 
 ## 开源框架源码 ##
@@ -47,7 +46,7 @@
 ## Android高级相关技术 ##
 - 热修复/插件化
 - 进程保活
-- 变体构建/持续集成
+- 持续集成
 
 ## 设计模式相关技术 ##
 - 观察者模式
